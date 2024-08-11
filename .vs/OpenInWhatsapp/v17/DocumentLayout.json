@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\OpenInWhatsapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF13F75-75C5-4FF6-9256-33E9D9D70EA4}|OpenInWhatsapp\\OpenInWhatsapp.csproj|c:\\code\\openinwhatsapp\\openinwhatsapp\\openinwhatsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7DF13F75-75C5-4FF6-9256-33E9D9D70EA4}|OpenInWhatsapp\\OpenInWhatsapp.csproj|solutionrelative:openinwhatsapp\\openinwhatsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF13F75-75C5-4FF6-9256-33E9D9D70EA4}|OpenInWhatsapp\\OpenInWhatsapp.csproj|c:\\code\\openinwhatsapp\\openinwhatsapp\\openinwhatsapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7DF13F75-75C5-4FF6-9256-33E9D9D70EA4}|OpenInWhatsapp\\OpenInWhatsapp.csproj|solutionrelative:openinwhatsapp\\openinwhatsapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenInWhatsapp",
+              "DocumentMoniker": "C:\\code\\OpenInWhatsapp\\OpenInWhatsapp\\OpenInWhatsapp.csproj",
+              "RelativeDocumentMoniker": "OpenInWhatsapp\\OpenInWhatsapp.csproj",
+              "ToolTip": "C:\\code\\OpenInWhatsapp\\OpenInWhatsapp\\OpenInWhatsapp.csproj",
+              "RelativeToolTip": "OpenInWhatsapp\\OpenInWhatsapp.csproj",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwCMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-11T07:54:33.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OpenInWhatsapp",
+              "DocumentMoniker": "C:\\code\\OpenInWhatsapp\\OpenInWhatsapp\\OpenInWhatsapp.csproj",
+              "RelativeDocumentMoniker": "OpenInWhatsapp\\OpenInWhatsapp.csproj",
+              "ToolTip": "C:\\code\\OpenInWhatsapp\\OpenInWhatsapp\\OpenInWhatsapp.csproj",
+              "RelativeToolTip": "OpenInWhatsapp\\OpenInWhatsapp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-11T07:53:42.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
